@@ -1,6 +1,6 @@
 # Python README Generator 
 
- ## Decription: 
+ ## Description: 
 This is a README generator written in Python. Answer the prompts and a README will be automatically generated. 
 
  ## Installation: 
