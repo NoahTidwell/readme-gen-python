@@ -1,13 +1,13 @@
-# Python README Generator 
+# README Generator - Python
 
- ## Description: 
-This is a README generator written in Python. Answer the prompts and a README will be automatically generated. 
+##  Description:
+This is a python script that will prompt the user with a variety of questions about their program/project. The answers to the prompts will be used to automatically generate a README file for the user's project. /n
 
- ## Installation: 
-Clone the github repo and execute program to begin prompts. 
+##  Installation:
+Clone github repository and run program. /n
 
- ## Usage: 
-Use this project to automate your READMEs 
+##  Usage:
+Use this project to automate the creation process of a README for a project. /n
 
- ## Contributions: 
-github pull request or email 
+##  Contributions:
+Github pull request or Email.
