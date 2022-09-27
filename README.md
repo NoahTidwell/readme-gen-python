@@ -1,9 +1,13 @@
-# Noah's Readme Generator 
+# Python README Generator 
 
- ## This is a generator for readme markdowns written in Python. 
+ ## Decription: 
+This is a README generator written in Python. Answer the prompts and a README will be automatically generated. 
 
- ## Clone github repository and run the program. Answer prompts accordingly. 
+ ## Installation: 
+Clone the github repo and execute program to begin prompts. 
 
- ## Use this project to automate your readme markdowns 
+ ## Usage: 
+Use this project to automate your READMEs 
 
- ## Github Pull Request or reach out to a contributor 
+ ## Contributions: 
+github pull request or email 
